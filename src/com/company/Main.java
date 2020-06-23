@@ -1,3 +1,22 @@
+/*
+ * @author  Oleksii Shevchenko KNUTE 1m
+ *
+ *
+ * @version 29.05.20
+ *
+ *
+ * Laboratory work № 1
+
+Laboratory work No. 1
+
+Topic: Introduction to the Java programming language, variables, data types, operators. Logical operators, branch operators, bit-wise operators,loops, strings, arrays, methods. 
+
+1.  Find the longest word in the above text.
+2. Count the LINES where the word "Harry" is met.
+3.Take  the array of distinct words from Harry Potter . Create an array of hashes.
+4. Count the intersections of hashes.
+ *
+ */
 package com.company;
 
 import java.io.IOException;
